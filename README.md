@@ -1,44 +1,42 @@
-Hi, I'm Omer Alzain
+# Hi, I'm Omer Alzain
 
-Software Engineering Student at Sudan University of Science and Technology.
+I'm a Software Engineering student at Sudan University of Science and Technology, focused on backend development and building practical software projects.
 
-Aspiring Cloud Engineer passionate about building software, learning backend development, and understanding how systems work.
+I'm currently strengthening my skills in API development, database design, application architecture, testing, Linux, and containerization. My longer-term career direction is Cloud Engineering.
 
-What I'm Working On
+## Technical Skills
 
-- WeatherMap — A web application combining interactive maps, geocoding, and weather data.
-- ToDo — A task management application to strengthen my backend development and API design skills.
-- Exploring software architecture, database design, and system design through practical projects.
+- **Languages:** JavaScript, PHP, Python
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB, MariaDB
+- **Tools & Platforms:** Git, GitHub, Linux, Docker, Docker Compose, Nginx
+- **Frontend:** React, HTML, CSS
 
-Technologies & Tools
+## Selected Projects
 
-- Languages: JavaScript, PHP
-- Backend: Node.js, Express.js, REST APIs
-- Databases: PostgreSQL, MariaDB
-- Tools: Git, GitHub, Linux
-- Currently Exploring: Cloud Computing and Cloud Infrastructure
+### [Alzikrayat — MERN Stack with Docker](https://github.com/Omer-Alzain/Alzikrayat-MERN-Docker)
+A photo-sharing application built with React, Express, Node.js, and MongoDB. Containerized with Docker Compose, using Nginx as a reverse proxy, multi-stage frontend builds, and persistent volumes.
 
-Currently Learning
+### [Alzikrayat — PHP MVC Application](https://github.com/Omer-Alzain/Alzikrayat)
+A PHP photo-sharing application demonstrating MVC-style organization, routing, session-based authentication, PDO database access, photo uploads, and comments.
 
-- Backend architecture and API development
-- Database design and migrations
-- Authentication, authorization, and middleware
-- Linux and cloud infrastructure
-- Software engineering best practices
+### [Smart Downloads Organizer](https://github.com/Omer-Alzain/SMAssienment)
+A Python command-line tool that scans and organizes files by category. Includes preview-before-execution, safe file handling, duplicate-name handling, modular code, and automated tests. Developed collaboratively.
 
-My Goal
+### [WeatherMap](https://github.com/Omer-Alzain/WeatherMap)
+A JavaScript web application that combines location search, geocoding, weather API requests, and an interactive Leaflet map.
 
-To become a Cloud Engineer by building practical projects, strengthening my software engineering fundamentals, and learning how to design, deploy, and maintain reliable systems.
+## Currently Developing
 
-Featured Projects
+- Backend architecture and API design
+- Relational database design and SQL
+- Docker-based application workflows
+- Linux, networking, and cloud infrastructure fundamentals
+- Automated testing and software engineering practices
 
-- "WeatherMap" (https://github.com/Omer-Alzain) — Exploring maps, geocoding, and weather APIs.
-- "ToDo" (https://github.com/Omer-Alzain/ToDo) — A task management project focused on organizing tasks and learning backend development.
+## Connect
 
-Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/omer-abd-almonem-392778424/)
+- [GitHub](https://github.com/Omer-Alzain)
 
-- GitHub: "@Omer-Alzain" (https://github.com/Omer-Alzain)
-
----
-
-Learning by building, improving through practice, and working toward Cloud Engineering.
+I'm interested in remote backend development internships and junior opportunities where I can contribute, learn from experienced engineers, and grow through real software projects.
